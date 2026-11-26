@@ -1,0 +1,178 @@
+[
+  {
+    "question": "What is CodeAlpha AI internship?",
+    "variations": [
+      "Tell me about the AI internship",
+      "What is this internship about"
+    ],
+    "answer": "The CodeAlpha AI internship provides hands-on experience in artificial intelligence, machine learning workflows, and real-time data processing."
+  },
+  {
+    "question": "How many tasks should I complete?",
+    "variations": [
+      "How many projects are required",
+      "What is the minimum number of tasks"
+    ],
+    "answer": "The task instructions say to complete any 2 or 3 of the 4 listed AI tasks. The completion note says a minimum of two or three tasks is required; completing only one task is considered incomplete."
+  },
+  {
+    "question": "What are the available AI tasks?",
+    "variations": [
+      "List the internship projects",
+      "What projects can I choose"
+    ],
+    "answer": "The four listed tasks are: 1) Language Translation Tool, 2) Chatbot for FAQs, 3) Music Generation with AI, and 4) Object Detection and Tracking."
+  },
+  {
+    "question": "What is Task 1?",
+    "variations": [
+      "Explain language translation tool",
+      "Task one details"
+    ],
+    "answer": "Task 1 is a Language Translation Tool. Let users enter text, select source and target languages, send the text to a translation API, and display the translated result. Copy or text-to-speech is optional."
+  },
+  {
+    "question": "What is Task 2?",
+    "variations": [
+      "Explain FAQ chatbot",
+      "Task two details"
+    ],
+    "answer": "Task 2 is a Chatbot for FAQs. Collect topic-related questions and answers, preprocess text using NLTK or SpaCy, match user questions using cosine similarity or intent matching, and display the best matching answer. A chat UI is optional."
+  },
+  {
+    "question": "What is Task 3?",
+    "variations": [
+      "Explain AI music generation",
+      "Task three details"
+    ],
+    "answer": "Task 3 is Music Generation with AI. The instructions describe collecting MIDI data, preprocessing note sequences, building an RNN such as an LSTM or a GAN, training the model, and converting generated sequences to MIDI or audio."
+  },
+  {
+    "question": "What is Task 4?",
+    "variations": [
+      "Explain object detection",
+      "Task four details"
+    ],
+    "answer": "Task 4 is Object Detection and Tracking. Use OpenCV with a webcam or video, a pre-trained model such as YOLO or Faster R-CNN, draw bounding boxes, and track objects with SORT or Deep SORT."
+  },
+  {
+    "question": "How should I name my GitHub repository?",
+    "variations": [
+      "What is the repository name format",
+      "GitHub repo naming rule"
+    ],
+    "answer": "The instructions specify the repository naming format as CodeAlpha_ProjectName. For example, CodeAlpha_FAQ_Chatbot."
+  },
+  {
+    "question": "Where should I upload my source code?",
+    "variations": [
+      "How do I submit code",
+      "Should I use GitHub"
+    ],
+    "answer": "Upload the complete project source code to a GitHub repository using the required CodeAlpha_ProjectName naming format."
+  },
+  {
+    "question": "Do I need to post on LinkedIn?",
+    "variations": [
+      "Should I share internship status",
+      "Do I need to tag CodeAlpha"
+    ],
+    "answer": "Yes. The instructions ask interns to share their internship status on LinkedIn and tag @CodeAlpha."
+  },
+  {
+    "question": "Do I need to make a project explanation video?",
+    "variations": [
+      "Is a demo video required",
+      "Video explanation requirement"
+    ],
+    "answer": "Yes. The instructions ask interns to post a video explanation of the project on LinkedIn with the GitHub repository link."
+  },
+  {
+    "question": "How do I submit the completed task?",
+    "variations": [
+      "Where is the submission form",
+      "Submission process"
+    ],
+    "answer": "A submission form will be shared in your respective WhatsApp group. Submit the completed task through that form and follow its instructions."
+  },
+  {
+    "question": "Where can I get the submission form?",
+    "variations": [
+      "Who shares the form",
+      "WhatsApp submission form"
+    ],
+    "answer": "The submission form will be shared in your respective WhatsApp group."
+  },
+  {
+    "question": "What are the internship perks?",
+    "variations": [
+      "What benefits are provided",
+      "What do interns receive"
+    ],
+    "answer": "The PDF lists an internship offer letter, completion certificate with QR verification, unique ID certificate, a letter of recommendation based on performance, job opportunities or placement support, and resume-building support."
+  },
+  {
+    "question": "Will I get a completion certificate?",
+    "variations": [
+      "Certificate eligibility",
+      "How can I get certificate"
+    ],
+    "answer": "The instructions state that completing the required minimum of two or three tasks is necessary for internship certificate eligibility. Submitting only one task is considered incomplete and certificates will not be issued in that case."
+  },
+  {
+    "question": "Is a letter of recommendation guaranteed?",
+    "variations": [
+      "Will I get LOR",
+      "Is recommendation letter guaranteed"
+    ],
+    "answer": "The internship overview lists a Letter of Recommendation based on performance. It is not stated as an unconditional guarantee."
+  },
+  {
+    "question": "What should Task 2 chatbot contain?",
+    "variations": [
+      "FAQ chatbot requirements",
+      "How does FAQ matching work"
+    ],
+    "answer": "The FAQ chatbot should use topic-related questions and answers, preprocess text with an NLP library, find the most similar FAQ using cosine similarity or intent matching, and display the best matching answer."
+  },
+  {
+    "question": "Can I use NLTK or SpaCy?",
+    "variations": [
+      "Which NLP libraries are allowed",
+      "Can I use NLTK"
+    ],
+    "answer": "Yes. The Task 2 instructions give NLTK and SpaCy as examples of NLP libraries for preprocessing, including tokenization and cleaning."
+  },
+  {
+    "question": "Can I use cosine similarity?",
+    "variations": [
+      "How can I match questions",
+      "Is cosine similarity allowed"
+    ],
+    "answer": "Yes. The Task 2 instructions suggest cosine similarity or intent matching to identify the FAQ that best matches the user's question."
+  },
+  {
+    "question": "What is the CodeAlpha website?",
+    "variations": [
+      "Where is the official website",
+      "Company website"
+    ],
+    "answer": "The website listed in the internship PDF is www.codealpha.tech."
+  },
+  {
+    "question": "What is the CodeAlpha contact email?",
+    "variations": [
+      "How can I email CodeAlpha",
+      "Support email"
+    ],
+    "answer": "The PDF lists services@codealpha.tech and services.codealpha@gmail.com as contact email addresses."
+  },
+  {
+    "question": "What is the CodeAlpha WhatsApp contact?",
+    "variations": [
+      "WhatsApp number",
+      "Contact phone number"
+    ],
+    "answer": "The WhatsApp contact number listed in the PDF is +91 9336576683."
+  }
+]
